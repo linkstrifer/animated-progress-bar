@@ -1,0 +1,20 @@
+body {
+  background-color: #3498db;
+  font-family: sans-serif;
+}
+
+.progress {
+  background-color: #bdc3c7;
+  height: 20px;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 80vw;
+}
+
+.bar {
+  background-color: #2ecc71;
+  height: 100%;
+  width: 0;
+}
